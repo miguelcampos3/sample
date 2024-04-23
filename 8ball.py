@@ -1,5 +1,5 @@
 import random # Allow the program to use random numbers
-
+print('Hello World!')
 while True:
     print() # prints a blank line
 
